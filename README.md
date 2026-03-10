@@ -28,9 +28,8 @@ React • Backend • Data Curious
 </p>
 
 ---
----
 
-## contact/
+## contact
 <p>
   <a href="https://www.linkedin.com/in/tiar-na/">
     <img src="https://skillicons.dev/icons?i=linkedin" />

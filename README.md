@@ -2,7 +2,7 @@
 
 ```txt
 Full Stack Developer
-React • Backend • Data Curious
+React • Backend •
 ```
 
 ---

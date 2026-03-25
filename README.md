@@ -18,7 +18,7 @@ React • Backend • Artificial Intelligence
 
 ## stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,html,css,tailwind" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb" />

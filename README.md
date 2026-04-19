@@ -18,13 +18,13 @@ React • Backend • Artificial Intelligence
 
 ## stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,react,html,css,tailwind" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,firebase,azure,gcp" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,linux,cpp" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,postman" />
 </p>
 
 ---

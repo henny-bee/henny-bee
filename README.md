@@ -12,11 +12,25 @@ Building scalable apps & AI solutions
 </div>
 
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henny-bee&theme=jolly&animation=rise&bg_color=000000&border_color=000000&chart_color=02e3ab)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henny-bee&theme=jolly&animation=rise&bg_color=000000&border_color=000000&chart_color=02e3ab)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henny-bee&theme=jolly&animation=rise&bg_color=000000&border_color=000000&chart_color=02e3ab)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henny-bee&amp;theme=jolly&amp;animation=rise&amp;bg_color=000000&amp;border_color=000000&amp;chart_color=02e3ab"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henny-bee&amp;theme=jolly&amp;animation=rise&amp;bg_color=000000&amp;border_color=000000&amp;chart_color=02e3ab"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henny-bee&amp;theme=jolly&amp;animation=rise&amp;bg_color=000000&amp;border_color=000000&amp;chart_color=02e3ab"
+    width="49%"
+  />
+</p>
 
 
 
@@ -28,3 +42,18 @@ Open to collaborating on AI/ML projects and full-stack applications.
   <a href="https://www.linkedin.com/in/tiar-na">LinkedIn</a> 
 </div>
 <br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="../output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="../output/github-snake.svg"
+  />
+  <img
+    src="../output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
